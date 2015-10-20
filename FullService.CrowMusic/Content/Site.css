@@ -36,4 +36,12 @@ textarea {
 }
 
 
+div.search {
+    width: 299px;
+    height: 10px;
+    float: right;
+    margin-right: 500px;
+    margin-left: 50px;
+}
+
 
